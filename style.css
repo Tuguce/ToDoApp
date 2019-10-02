@@ -1,0 +1,19 @@
+ul li.checked{ /*yani checked üstüne tıkladığımızda*/
+    background: #888; /*gri renk*/
+    color: #fff;
+    text-decoration: line-through; /*üstü çizili*/
+}
+
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+}
+
+#deleteAll
+{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
